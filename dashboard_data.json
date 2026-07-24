@@ -1,0 +1,303 @@
+{
+  "kpis": {
+    "revenue": 52318.4,
+    "profit": 24562.9,
+    "profit_pct": 54.37,
+    "orders": 120,
+    "customers": 50,
+    "aov": 435.99
+  },
+  "monthly": {
+    "labels": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ],
+    "revenue": [
+      4929.68,
+      4204.73,
+      3250.71,
+      5029.69,
+      4169.68,
+      4049.71,
+      4039.71,
+      5450.69,
+      3804.73,
+      5049.72,
+      3609.68,
+      4729.67
+    ],
+    "profit": [
+      2291.68,
+      1946.73,
+      1579.71,
+      2333.19,
+      1987.68,
+      1960.71,
+      1887.71,
+      2488.19,
+      1784.73,
+      2313.22,
+      1794.18,
+      2195.17
+    ]
+  },
+  "categories": {
+    "labels": [
+      "Electronics",
+      "Home & Kitchen",
+      "Sportswear",
+      "Beauty & Health",
+      "Books & Office"
+    ],
+    "revenue": [
+      38248.88,
+      5789.41,
+      3974.21,
+      2851.3,
+      1454.6
+    ],
+    "profit": [
+      16754.38,
+      3038.41,
+      2219.21,
+      1692.8,
+      858.1
+    ]
+  },
+  "top_products": {
+    "labels": [
+      "Smartphone X12",
+      "Laptop Pro 15",
+      "Tablet Pro 11",
+      "27-inch Monitor",
+      "Vacuum Cleaner Robot",
+      "Smart Watch Series 5",
+      "Webcam 4K",
+      "Mechanical Keyboard",
+      "Air Fryer XL",
+      "Running Shoes Men"
+    ],
+    "revenue": [
+      13499.85,
+      11699.91,
+      3899.94,
+      2099.94,
+      1799.94,
+      1499.95,
+      1079.91,
+      1079.88,
+      1039.92,
+      989.89
+    ]
+  },
+  "top_customers": {
+    "labels": [
+      "Eva Martinez",
+      "Gabriella Adams",
+      "Henry Taylor",
+      "David Brown",
+      "Alice Johnson",
+      "Nathan Turner",
+      "Liam Harris",
+      "Zachary Hernandez",
+      "Jack Thomas",
+      "Priya Parker"
+    ],
+    "spent": [
+      3919.91,
+      3519.91,
+      3289.93,
+      2969.95,
+      2884.87,
+      2699.97,
+      2529.93,
+      1809.95,
+      1789.94,
+      1489.95
+    ]
+  },
+  "states": {
+    "labels": [
+      "Texas",
+      "California",
+      "Ohio",
+      "Pennsylvania",
+      "Arizona",
+      "New York",
+      "Alaska",
+      "Florida",
+      "Tennessee",
+      "Kentucky"
+    ],
+    "revenue": [
+      6629.77,
+      5974.58,
+      5009.84,
+      3919.91,
+      3779.84,
+      2884.87,
+      2699.97,
+      2089.82,
+      1965.81,
+      1919.67
+    ]
+  },
+  "quarterly": {
+    "labels": [
+      "Q1",
+      "Q2",
+      "Q3",
+      "Q4"
+    ],
+    "revenue": [
+      12385.12,
+      13249.08,
+      13295.13,
+      13389.07
+    ],
+    "profit": [
+      5818.12,
+      6281.58,
+      6160.63,
+      6302.57
+    ]
+  },
+  "payment": {
+    "labels": [
+      "Credit Card",
+      "PayPal",
+      "Debit Card",
+      "Cash"
+    ],
+    "orders": [
+      59,
+      25,
+      24,
+      12
+    ]
+  },
+  "best_products": {
+    "labels": [
+      "Wireless Mouse",
+      "Water Bottle 1L",
+      "Basketball Nike",
+      "Smartphone X12",
+      "Resistance Bands Set",
+      "Notebook A4 100pg",
+      "USB-C Hub 7-in-1",
+      "Mechanical Keyboard",
+      "Multivitamin 90ct",
+      "Moisturizer SPF 50"
+    ],
+    "units": [
+      17,
+      16,
+      16,
+      15,
+      15,
+      13,
+      13,
+      12,
+      12,
+      12
+    ]
+  },
+  "profit_products": {
+    "labels": [
+      "Smartphone X12",
+      "Laptop Pro 15",
+      "Tablet Pro 11",
+      "27-inch Monitor",
+      "Vacuum Cleaner Robot",
+      "Smart Watch Series 5",
+      "Mechanical Keyboard",
+      "Webcam 4K",
+      "Air Fryer XL",
+      "Running Shoes Men"
+    ],
+    "profit": [
+      5849.85,
+      4679.91,
+      1619.94,
+      929.94,
+      851.94,
+      709.95,
+      575.88,
+      557.91,
+      543.92,
+      527.89
+    ]
+  },
+  "rep_customers": [
+    {
+      "customer_name": "Eva Martinez",
+      "state": "Pennsylvania",
+      "order_count": 3,
+      "lifetime_value": 3919.91
+    },
+    {
+      "customer_name": "Gabriella Adams",
+      "state": "Ohio",
+      "order_count": 3,
+      "lifetime_value": 3519.91
+    },
+    {
+      "customer_name": "Henry Taylor",
+      "state": "Texas",
+      "order_count": 3,
+      "lifetime_value": 3289.93
+    },
+    {
+      "customer_name": "Alice Johnson",
+      "state": "New York",
+      "order_count": 3,
+      "lifetime_value": 2884.87
+    },
+    {
+      "customer_name": "Liam Harris",
+      "state": "California",
+      "order_count": 3,
+      "lifetime_value": 2529.93
+    },
+    {
+      "customer_name": "Karen Jackson",
+      "state": "Florida",
+      "order_count": 3,
+      "lifetime_value": 1489.88
+    },
+    {
+      "customer_name": "Bob Smith",
+      "state": "Illinois",
+      "order_count": 3,
+      "lifetime_value": 1229.92
+    },
+    {
+      "customer_name": "Yasmine Young",
+      "state": "California",
+      "order_count": 3,
+      "lifetime_value": 904.91
+    },
+    {
+      "customer_name": "Quinton Evans",
+      "state": "Montana",
+      "order_count": 3,
+      "lifetime_value": 899.97
+    },
+    {
+      "customer_name": "Logan Perez",
+      "state": "Kentucky",
+      "order_count": 3,
+      "lifetime_value": 869.87
+    }
+  ]
+}

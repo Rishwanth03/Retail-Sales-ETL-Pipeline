@@ -1,0 +1,74 @@
+# ============================================================
+# .gitignore — Retail Sales ETL Pipeline
+# ============================================================
+
+# Environment & secrets
+.env
+*.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Logs (auto-generated)
+logs/
+*.log
+
+# Data files (raw/processed — keep only samples if needed)
+data/cleaned/
+data/processed/
+# Uncomment to also ignore raw data:
+# data/raw/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# MyPy type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest cache
+.pytest_cache/
+*.pytest_cache
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+
+# Power BI temp files
+*.pbix.bak
+
+# SQLAlchemy / alembic
+alembic.ini
+migrations/
+
+# Byte-compiled / optimized
+*.so
